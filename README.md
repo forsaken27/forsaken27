@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @forsaken27
+# Hi, I'm Ulugbek 👋
 
-<!---
-forsaken27/forsaken27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+junior CS student at KAIST, passionate about building things and understanding how they work — currently diving deep into Machine Learning and Deep Learning.
+
+## Tech Stack
+
+- **Languages:** Python · Java · C
+- **ML / DL:** PyTorch · NumPy · Pandas
+- **Tools:** Git · Linux
+
+## Currently Learning
+
+- Machine Learning fundamentals
+- Deep Learning with PyTorch
+- Neural network architectures
+
+## Get in Touch
+
+Open to connecting with fellow students, learners, and anyone working on interesting projects.
