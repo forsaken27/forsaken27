@@ -1,18 +1,17 @@
 # Hi, I'm Ulugbek 👋
 
-junior CS student at KAIST, passionate about building things and understanding how they work — currently diving deep into Machine Learning and Deep Learning.
+junior CS&EE student at KAIST, passionate about building things and understanding how they work — currently diving deep into Reinforcement Learning / Circuit Design.
 
 ## Tech Stack
 
-- **Languages:** Python · Java · C
+- **Languages:** Python · C · Java
 - **ML / DL:** PyTorch · NumPy · Pandas
-- **Tools:** Git · Linux
+- **Tools:** Git · Linux · ROS 
 
 ## Currently Learning
 
-- Machine Learning fundamentals
-- Deep Learning with PyTorch
-- Neural network architectures
+- Reinforcement Learning fundamentals
+- Semiconductor designs
 
 ## Get in Touch
 
